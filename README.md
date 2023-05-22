@@ -1,6 +1,7 @@
 ### Hi 👋
 
-💻  currently learning about software testing 
+💻 currently learning about software testing
+
 ⚙ katalon studio, jMeter, selenium, jira, postman
 
 <!--
