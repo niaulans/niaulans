@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 💻  currently learning about software testing 
-- ⚙ katalon studio, jMeter, selenium, jira, postman
+💻  currently learning about software testing 
+⚙ katalon studio, jMeter, selenium, jira, postman
 
 <!--
 **niaulans/niaulans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
