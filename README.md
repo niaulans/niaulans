@@ -1,8 +1,8 @@
-### Hi 👋
+### Hi, I'm Nia 👋
+---
+💻 Currently learning about Software Testing
 
-💻 currently learning about software testing
-
-⚙ katalon studio, jMeter, selenium, jira, postman
+⚙ Katalon Studio, jMeter, Selenium, Jira, Postman
 
 <!--
 **niaulans/niaulans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
